@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+	text-align: center;
+}
+
+.inputable{
+	font-size:48px;
+}
+
+.header{
+	background:#1e90ff;
+	color:white;
+}
+
+.pmbutton{
+	display: flex;
+}
+
+.inputtext{
+	
+}
+
+#button{
+	width:300px;
+	height:150px;
+	padding:20px;
+	margin-bottom:50px;
+	border:black 2px solid;
+	text-decoration:nome;
+	font-size:64px;
+	display:inline-block;
+}
+
+.returnButton{
+	background:#1e90ff;
+}
+
+.nextButton{
+	background:#0000cd;
+}
